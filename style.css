@@ -64,7 +64,7 @@ header .line {
 .banner {
     display: flex;
     justify-content: center;
-    background-image: url(imgs/fundo1.jpg);
+    background-image: url(imgs/fundo.jpg);
     background-position: center;
     background-size: cover;
     height: 670px;
@@ -212,26 +212,6 @@ article .news_thumbnail img{
     width: 100%;
     height: auto;
 }
-
-
-
-
-
-
-.quadrados {
-    max-width: 20px;
-}
-.quadrado1, .quadrado3, .quadrado5 {
-    background-color: #0079c7;
-    padding: 50px;
-    margin-top: 20px;
-
-}
-.quadrado2, .quadrado4, .quadrado6 {
-    background-color: #1e1e1e;
-    padding: 50px;
-    margin-top: 20px;
-}
 .makeApp {
     font-size: 13px;
     color: #5c5c5c;
@@ -256,25 +236,6 @@ article .news_thumbnail img{
     text-decoration:underline;
     color: #36a9e1;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* footer*/
 footer {
