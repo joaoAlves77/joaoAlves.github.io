@@ -394,4 +394,7 @@ footer .widget_title_text {
         flex-direction: column;
         justify-content: space-between;
     }
+    .widget_title_text {
+        margin-top: 20px;
+    }
 }
