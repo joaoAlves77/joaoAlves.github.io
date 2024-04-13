@@ -331,3 +331,16 @@ footer .widget_title_text {
     font-size: 12px;
     margin-top: 30px;
 }
+
+@media (max-width:600px) {
+    .banner_headline h1 {
+        font-size: 55px;
+    }
+    .banner_headline h2 {
+        font-size: 17px;
+    }
+    .banner_options {
+        height: auto;
+        flex-direction: column;
+    }
+}
